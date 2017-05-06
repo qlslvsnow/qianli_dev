@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7331af1-65a5-4083-a97b-eea8be538444" name="Default" comment="">
+    <list default="true" id="e7331af1-65a5-4083-a97b-eea8be538444" name="Default" comment="update">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <list id="1ba1b73a-041c-48a5-a1c9-9392cf883a72" name="ignore" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="110" column="41" lean-forward="true" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+            <state relative-caret-position="986">
+              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -69,6 +73,7 @@
       <find>Sub-heading</find>
       <find>ab</find>
       <find>a</find>
+      <find>New feature</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -627,11 +632,12 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e7331af1-65a5-4083-a97b-eea8be538444" name="Default" comment="" />
+      <changelist id="1ba1b73a-041c-48a5-a1c9-9392cf883a72" name="ignore" comment="" />
       <created>1494084062038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494084062038</updated>
-      <workItem from="1494084063583" duration="4607000" />
+      <workItem from="1494084063583" duration="5147000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1494086892982</created>
@@ -682,11 +688,25 @@
       <option name="project" value="LOCAL" />
       <updated>1494088657521</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1494088683485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1494088683485</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1494088870219</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1494088870219</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4607000" />
+    <option name="totallyTimeSpent" value="5147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -785,8 +805,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="110" column="41" lean-forward="true" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+        <state relative-caret-position="986">
+          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding />
         </state>
       </provider>
