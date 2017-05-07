@@ -2,9 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7331af1-65a5-4083-a97b-eea8be538444" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rjql.ico" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/114295612076286903.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/116507828860290605.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/126700625722501236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/151246062210566289.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/171283532740018892.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/209107404662015192.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/227651966904505966.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/255711635229397392.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/266587330755567723.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/27445231867184200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/276748784056391541.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/282482647094707883.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/296267751064978020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/325273420366240111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/327515033264855016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/333592047442804393.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/340904568261692197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/34119926690831704.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/352509588693260268.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/361798501237912528.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/373887470420482774.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/435424118179023701.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/454900650390996556.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/458841473951404697.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/508113410575027548.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/518797621822541661.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/540397336230194484.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/546646100175179038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/564717303738675376.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/581931018795088506.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/589726219373183121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/591722099842625657.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5934038973705185.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/595662067481267684.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/613220879663079989.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/619888411712915316.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/623027230527263434.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/654403108102130017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/660622541449577024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/69085145838044534.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/701923086529365646.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/73449554181024063.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/743563028934826496.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/74473230523668300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/765341026395610208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/793707974983666787.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/868518414641220912.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/889573503619172864.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9210013444048746.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/marukochan.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qlrj.html" afterPath="$PROJECT_DIR$/qlrj.html" />
     </list>
     <ignored path=".idea/" />
@@ -25,19 +73,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1404">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="76" selection-end-column="38" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,14 +86,21 @@
       <file leaf-file-name="qlrj.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/qlrj.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="991">
+              <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marukochan.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/marukochan.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -83,8 +131,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/qlrj.html" />
       </list>
     </option>
@@ -126,20 +174,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="qianli_dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qianli_dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qianli_dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -704,7 +738,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9551000" />
+    <option name="totallyTimeSpent" value="11860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3856" height="2092" extended-state="0" />
@@ -859,31 +893,39 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3282#3286#0" expanded="true" />
+            <element signature="e#7890#7894#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/marukochan.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="1404">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="76" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/qlrj.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="991">
+          <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
